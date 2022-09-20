@@ -1,4 +1,4 @@
-    There are many ways that the skills that I have learned in CS can serve the community. In a direct line, my goal is to work 
+There are many ways that the skills that I have learned in CS can serve the community. In a direct line, my goal is to work 
 for the DoD in quality assurance and testing. The program skills and information could help aid our service members, even as 
 much as saving lives. When I obtain this goal, I am going to be able to serve those that serve our community.
     Outside of that, there are other ways that I can serve the community with my learned CS skills. Some of those skills are 
