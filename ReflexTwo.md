@@ -1,4 +1,4 @@
-    An example of a time that I worked with a team would be for my Object-Oriented Programming class. The class included a 
+An example of a time that I worked with a team would be for my Object-Oriented Programming class. The class included a 
 large project that was to be completed by a group of six. We had taken this class during the summer semester, so the 
 typical timespan of a fourteen-week class was cut in half. The project itself was open ended. We were able to come up 
 with what the project was, if it included items that were learned during the semester. We created a program that would 
