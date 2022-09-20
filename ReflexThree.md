@@ -1,4 +1,4 @@
-    The career in CS that I am most suited for is quality assurance/tester in software development. My favorite 
+The career in CS that I am most suited for is quality assurance/tester in software development. My favorite 
 thing to do with things like video games and apps is to find the bugs in them. At first, it was finding them 
 through use of the app. As I have furthered my education, I find myself being able to go though the code of these 
 apps and finding the bugs or exploits that can be caused. It gives me a weird since of accomplishment when I can 
