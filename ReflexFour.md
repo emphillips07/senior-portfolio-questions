@@ -1,4 +1,4 @@
-    The professional organization that I want to be a part of is the Association for Computing Machinery. 
+The professional organization that I want to be a part of is the Association for Computing Machinery. 
 ACM is the largest organization that focuses on computer science, its development, and its consequences. 
 I have had plenty of exposure to their philosophy and resources while studying at CSU, and I know they 
 would provide an immense number of resources to aid me in my profession. The best part about ACM is that 
